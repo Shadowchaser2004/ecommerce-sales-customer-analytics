@@ -55,3 +55,6 @@ Data Analyst Portfolio Project
 - Revenue by Country
 - Top 10 Products by Revenue
 - Units Sold by Category
+- 
+## Dashboard Preview
+![E-Commerce Sales & Customer Analytics Dashboard](Screenshot%202026-09-14%20040554.png)
