@@ -7,7 +7,7 @@ This project analyzes e-commerce sales and customer data to identify revenue tre
 The project uses SQL, Python, and Power BI to clean, analyze, and visualize the data.
 
 ## Tools Used
-
+- Google Sheets / Excel
 - SQL / BigQuery
 - Python
 - Pandas
@@ -45,7 +45,7 @@ The Power BI dashboard provides an overview of:
 - The dashboard helps identify high-performing products, categories, and markets.
 
 ## Project Structure
-
+- `E-Commerce Sales Analysis.xlsx` — Spreadsheet analysis and visualizations
 - `E-Commerce_Sales_Customer_Analytics.pbix` — Power BI dashboard and analysis
 - `README.md` — Project documentation
 
