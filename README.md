@@ -2,21 +2,22 @@
 
 ## Project Overview
 
-This project analyzes e-commerce sales and customer data to identify revenue trends, customer behavior, product performance, and business insights.
+This project analyzes e-commerce sales and customer data to identify revenue trends, product performance, category performance, geographic performance, and business insights.
 
-The project uses SQL, Python, and Power BI to clean, analyze, and visualize the data.
+The project combines SQL, Python, Power BI, and Google Sheets/Excel to analyze and visualize the data.
 
 ## Tools Used
-- Google Sheets / Excel
+
 - SQL / BigQuery
 - Python
 - Pandas
 - Power BI
+- Google Sheets / Excel
 - GitHub
 
 ## Dashboard
 
-The Power BI dashboard provides an overview of:
+The Power BI report provides an overview of:
 
 - Total Revenue
 - Completed Orders
@@ -28,36 +29,54 @@ The Power BI dashboard provides an overview of:
 - Revenue by Country
 - Top 10 Products by Revenue
 - Units Sold by Category
-  
 
-- ## Key Results
+### Power BI Report Pages
+
+- Executive Overview
+- Product & Category Analysis
+- Customer & Geographic Analysis
+
+## Spreadsheet Analysis
+
+The project also includes a Google Sheets/Excel analysis containing:
+
+- Sales summary metrics
+- Revenue by Category
+- Revenue by Country
+- Revenue visualization charts
+
+## Key Results
 
 - Total Revenue: 311,111
 - Completed Orders: 805
 - Completed Orders With Items: 695
 - Average Order Value (AOV): 447.64
-- Top Revenue Category: Hair — 101,637
-- Highest Revenue Country: Italy — 70,719
+- Hair Revenue: 101,637
+- Makeup Revenue: 81,085
+- Body Revenue: 76,011
+- Skin Revenue: 52,378
+- Italy Revenue: 70,719
 
 ## Business Insights
 
 - Hair generated the highest revenue among the four product categories.
-- Italy generated the highest revenue among the five countries.
+- Italy generated the highest revenue among the analyzed countries.
 - Product_16 was the highest-revenue product.
-- October and January were among the strongest months for revenue.
-- The dashboard helps identify high-performing products, categories, and markets.
+- The Power BI report provides an interactive view of sales performance across products, categories, countries, and order status.
+- The spreadsheet analysis provides an additional summary of category and country revenue performance.
 
 ## Project Structure
+
+- `E-Commerce_Sales_Customer_Analytics.pbix` — Power BI report
 - `E-Commerce Sales Analysis.xlsx` — Spreadsheet analysis and visualizations
-- `E-Commerce_Sales_Customer_Analytics.pbix` — Power BI dashboard and analysis
+- `customers.csv` — Customer data
+- `orders.csv` — Order data
+- `order_items.csv` — Order item data
+- `products.csv` — Product data
 - `README.md` — Project documentation
 
 ## Author
 
-Data Analyst Portfolio Project
-- Revenue by Country
-- Top 10 Products by Revenue
-- Units Sold by Category
+**Abdallah Ahmed**
 
-## Dashboard Preview
-![E-Commerce Sales & Customer Analytics Dashboard](Screenshot%202026-09-14%20040554.png)
+Aspiring Data Analyst | SQL | Python | Power BI | Google Sheets
