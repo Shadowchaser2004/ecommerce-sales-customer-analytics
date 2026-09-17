@@ -69,6 +69,7 @@ The project also includes a Google Sheets/Excel analysis containing:
 
 - `E-Commerce_Sales_Customer_Analytics.pbix` — Power BI report
 - `E-Commerce Sales Analysis.xlsx` — Spreadsheet analysis and visualizations
+- `Ecommerce_Sales_Analysis.ipynb` - Google Colab Python notebook for data processing and analysis
 - `customers.csv` — Customer data
 - `orders.csv` — Order data
 - `order_items.csv` — Order item data
